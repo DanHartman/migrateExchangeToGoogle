@@ -25,6 +25,7 @@ what the hell is Microsoft ActiveDirectory
 *  Reconfigure DNS
    1.  This is where service will be interrupted
    2.  Choose best time to do this.  Friday evening?  TTL may be up to 48 hours
+   
    >Priority    Mail Server
    >1   ASPMX.L.GOOGLE.COM.
    >5   ALT1.ASPMX.L.GOOGLE.COM.
