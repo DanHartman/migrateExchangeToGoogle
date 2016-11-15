@@ -1,6 +1,6 @@
 # Migrating From Microsoft Exchange to Google Apps
-[google signup]: (https://www.google.com/a/signup/?hl=en&source=gafb-homepage-canvas-&ga_region=noram&ga_country=us&ga_lang=en#0)
-[guide]: (https://www.bettercloud.com/migrating-from-rackspace-to-google-apps)
+[google signup]: https://www.google.com/a/signup/?hl=en&source=gafb-homepage-canvas-&ga_region=noram&ga_country=us&ga_lang=en#0
+[guide]: https://www.bettercloud.com/migrating-from-rackspace-to-google-apps
 ```
 Ok, stream of consciousness here.
 what the hell is LDAP
