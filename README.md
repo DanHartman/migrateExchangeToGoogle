@@ -26,9 +26,9 @@ what the hell is Microsoft ActiveDirectory
    1.  This is where service will be interrupted
    2.  Choose best time to do this.  Friday evening?  TTL may be up to 48 hours
    
-   >Priority    Mail Server
-   >1   ASPMX.L.GOOGLE.COM.
-   >5   ALT1.ASPMX.L.GOOGLE.COM.
-   >5   ALT2.ASPMX.L.GOOGLE.COM.
-   >10  ALT3.ASPMX.L.GOOGLE.COM.
-   >10  ALT4.ASPMX.L.GOOGLE.COM.
+   `Priority    Mail Server`
+   `1   ASPMX.L.GOOGLE.COM.`
+   `5   ALT1.ASPMX.L.GOOGLE.COM.`
+   `5   ALT2.ASPMX.L.GOOGLE.COM.`
+   `10  ALT3.ASPMX.L.GOOGLE.COM.`
+   `10  ALT4.ASPMX.L.GOOGLE.COM.`
