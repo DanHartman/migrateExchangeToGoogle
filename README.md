@@ -21,7 +21,7 @@
     2.  Create List of new accounts
     2.  Admin account access to Rackspace/host.
     3.  Admin account access to registrar
-    4.  Get Users to install the [GASMO][google apps sync] tool
+    4.  Get Users to install the [GSSMO][google apps sync] tool
 
 *  Test Migrate single account
 
